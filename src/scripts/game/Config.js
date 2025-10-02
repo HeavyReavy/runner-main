@@ -23,7 +23,7 @@ export const Config = {
         }
     },
     platforms: {
-        moveSpeed: 1,
+        moveSpeed: -3,
         ranges: {
             rows: {
                 min: 2,
